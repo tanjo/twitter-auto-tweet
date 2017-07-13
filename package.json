@@ -1,0 +1,24 @@
+{
+  "name": "summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "learning.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "moment": "^2.18.1",
+    "tsify": "^3.0.1",
+    "typescript": "^2.4.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "kuromoji": "^0.1.1",
+    "twitter": "^1.7.1"
+  }
+}
